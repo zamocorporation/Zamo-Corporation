@@ -6,4 +6,5 @@ Este es un software para el Almacenar/Buscar/Leer los artículos de un inventari
 ## Fuente de Datos
 
 # Referencias
+- https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg
 
